@@ -1,7 +1,7 @@
 package com.xp;
 
-public interface Test {
+public class Test {
 
-	void test();
+	void test() {};
 	
 }
